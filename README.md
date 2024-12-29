@@ -17,7 +17,7 @@ From **EDA to deployment**, the project was completed in under 4 weeks.
 
 ## 🎥 Demo
 Check out the app in action!  
-[![Watch the Demo](Screenshot 2024-12-18 180749.png)](Screen Recording 2024-12-28 154920.mp4)  
+[![Watch the Demo](solar_power_prediction.png)](solar_power_prediction_demo.mp4)  
 *(Click the image above to view the screen recording.)*
 
 ## 🔗 Learnings and Skills
