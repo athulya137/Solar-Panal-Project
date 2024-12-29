@@ -15,10 +15,9 @@ Analyzed **2920 rows** of solar energy data for model training and evaluation.
 ## 📅 Milestone Timeline
 From **EDA to deployment**, the project was completed in under 4 weeks.
 
-## 🎥 Demo
-Check out the app in action!  
-[![Watch the Demo](images/solar_power_prediction.png)](images/solar_power_prediction_demo.mp4)  
-*(Click the image above to view the screen recording.)*
+Below is a preview of the Solar Power Prediction app:
+
+![Solar Power Prediction](images/solar_power_prediction.png)
 
 ## 🔗 Learnings and Skills
 - **Data preprocessing**
